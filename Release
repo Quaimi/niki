@@ -1,0 +1,18 @@
+Origin: Paisseon's Repo 
+Label: Paisseon's Repo
+Suite: stable
+Version: 1.0
+Codename: EMT
+Architectures: iphoneos-arm
+Components: main
+Description: Who even reads repo descriptions?
+MD5Sum:
+ 8144c31a8c31a94387db33253744ccb3 23772 Packages
+ 9a52b97d2a14f8bef9e215aa81eb69a1 5199 Packages.bz2
+ 6af790daff81b7bf99921cdf6ec60e88 5515 Packages.gz
+ a4f161407c0f99ede9cf6c6e1e752cd6 4983 Packages.zst
+SHA256:
+ 03f128142b30ecb34cf9ea68f3687787db5a6c4c955a7c6c0884ec4237d8a821 23772 Packages
+ 80ae8093a1a4116e6a27cc7267c290e6a1738659f385c9140ebfcf41bc286c21 5199 Packages.bz2
+ a78c93b7bbc466f89bcf933faf32089dfa2e28addd1e63f2c5f62d9a44a95246 5515 Packages.gz
+ 0981dec18565fa7b1362f8095d8749d374b0ce979098495b6a73bb2ef65d36e6 4983 Packages.zst
